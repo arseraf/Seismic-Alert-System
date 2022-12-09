@@ -75,6 +75,8 @@ Once the data is storaged and normalized, is retrieved by BigQuery wich has an e
 
 The main focus of this project is given from an analytical point of view. From the large amount of data collected, we were able to evaluate different aspects of the earthquakes and their consequences. We are interested in being able to transmit the information obtained through dashboards in Microsoft Power BI or Streamlit.
 
+It was necessary 
+
 
 ### Machine Learning
 
@@ -144,3 +146,19 @@ Data from mayor earthquakes occurred in the US, Japan and Chile. Given visuals o
 This project is currently in the development process. All changes can be followed in the following gitbook: 
 
 https://aarons-organization.gitbook.io/earthquake-project1/
+
+
+# References
+
+In order to deliver a quality product, it was necessary to investigate the nature of the phenomenoms we analyze in this project. The following articles were consulted. 
+
+#### Earthquake aftershocks: 
+-	Japan Meteorological Agency – Aftershocks (https://www.jma.go.jp/jma/en/Activities/aftershock.html#:~:text=%5B4%5D%20The%20largest%20aftershock%2C,occur%20within%20about%2010%20days.)
+-	USGS – Aftershock Forecast Overview (https://earthquake.usgs.gov/data/oaf/overview.php)
+-	Aftershock Identification and Classification (https://www.scirp.org/journal/paperinformation.aspx?paperid=77616#:~:text=The%20main%20aftershock's%20incidence%20mostly,increase%20as%20the%20distance%20increases.)
+-	The largest aftershock: How strong, how far away, how delayed? (https://hal.archives-ouvertes.fr/hal-01540915/document)
+
+#### Earthquake triggered eruptions: 
+-	USGS – Can earthquakes trigger volcanic eruptions? (https://www.usgs.gov/faqs/can-earthquakes-trigger-volcanic-eruptions)
+-	EOS - Can Earthquakes Trigger Volcanic Eruptions? (https://eos.org/articles/can-earthquakes-trigger-volcanic-eruptions)
+-	Nature.com – A review framework of how eathquakes trigger volcanic eruptions (https://www.nature.com/articles/s41467-021-21166-8) 
