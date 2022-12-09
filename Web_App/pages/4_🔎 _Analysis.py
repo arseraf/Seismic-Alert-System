@@ -24,4 +24,4 @@ with st.sidebar:
     st_lottie(lottie_loading, loop=True, width=200, height=200)
 
 
-st.markdown("""<iframe title="Dashboard_EQ_FINAL_FINAL" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiY2RkYmI3OTctMzM4MS00YzYzLTk4ODUtN2I4ZDA0YWRhYmRlIiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9&pageName=ReportSection1906f259d08088731104" frameborder="0" allowFullScreen="true"></iframe>""", unsafe_allow_html=True)
+st.markdown("""<iframe title="Dashboard_EQ_EARTHSOLUTIONS" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMzY5YmY4YTAtODFmNi00ZTkwLTg4NWMtMDNiNmU0YmZjYTUxIiwidCI6IjBlMGNiMDYwLTA5YWQtNDlmNS1hMDA1LTY4YjliNDlhYTFmNiIsImMiOjR9&pageName=ReportSection1906f259d08088731104" frameborder="0" allowFullScreen="true"></iframe>""", unsafe_allow_html=True)
